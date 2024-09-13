@@ -1,2 +1,2 @@
-printf("cicd-pipeline project")
-printf("hey its my first pipeline")
+print("cicd-pipeline project")
+print("hey its my first pipeline")
